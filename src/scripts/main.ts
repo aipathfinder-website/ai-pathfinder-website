@@ -53,7 +53,7 @@ function initComponentScripts() {
 
 function initModuleScripts() {
     runModuleDefault("hero", ".hero");
-    runModuleDefault("region", ".region");
+    // runModuleDefault("region", ".region");
 }
 
 function safeInit() {
